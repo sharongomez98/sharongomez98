@@ -7,7 +7,7 @@ I like challenges, coffee and programming. Here more things I like to tell you:
 - 🌱 I’m currently learning Ruby on Rails, some Vue, Socket.io and FireBase.
 - 📫 How to reach me: sharonrubi98@gmail.com
 - 😄 Goals: improve my portafolio and learn more tecnologíes. 
-- ⚡ Fun fact: with my team we use ArchLinux as a operating system.
+- ⚡ Fun fact: Use ArchLinux as a O.S. and I like electronic, circuits and IoT.
 
 ### 🛠 &nbsp;Tecnologías
 ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=FFA518)&nbsp;
@@ -24,5 +24,4 @@ I like challenges, coffee and programming. Here more things I like to tell you:
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-05122A?style=for-the-badge&logo=apache-kafka&logoColor=231F20)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=4479A1)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=for-the-badge&logo=firebase&logoColor=FFCA28)&nbsp;
-![Arduino](https://img.shields.io/badge/-Arduino-05122A??style=for-the-badge&logo=arduino&logoColor=00979D)&nbsp;
 
