@@ -6,10 +6,10 @@ I like challenges, coffee and programming. Here more things I like to tell you:
 - 🔭 I’m currently working on backend team, but I'm interesting in fullStack development.
 - 🌱 I’m currently learning Ruby on Rails, some Vue, Socket.io and FireBase.
 - 📫 How to reach me: sharonrubi98@gmail.com
-- 😄 Goals: improve my portafolio and learn more tecnologíes. 
-- ⚡ Fun fact: Use ArchLinux as a O.S. and I like electronic, circuits and IoT.
+- 😄 Goals: improve my portafolio and learn more tecnologies. 
+- ⚡ Fun fact: Use ArchLinux as O.S. and I like electronic, circuits and IoT.
 
-### 🛠 &nbsp;Tecnologías
+### 🛠 &nbsp;Tecnologies
 ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=FFA518)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
